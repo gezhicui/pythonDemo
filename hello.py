@@ -1,4 +1,4 @@
-qq="weqewq"
-ww="dsadwa"
+qq = "weqewq"
+ww = "dsadwa"
 print(qq)
 print(ww)
